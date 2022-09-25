@@ -1,0 +1,1 @@
+<?php class Blog extends Controlador{function __construct(){parent::__construct();}public function renderizar($vista="blogs/blog1"){if(isset($_GET['id'])){$this->mostrarVista("blogs/blog".$_GET['id']);}else{$this->mostrarVista($vista);}}} ?>

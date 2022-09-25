@@ -1,0 +1,2 @@
+var cadenaDeTexto=window.location.toString();var ultimoSlash=cadenaDeTexto.lastIndexOf("/");var navurl=cadenaDeTexto.substring(ultimoSlash);var urlactual=navurl.replace("/","");if(urlactual==""){urlactual="inicio"}else if(urlactual=="marca"||urlactual=="marketing"||urlactual=="diseno"||urlactual=="web"){urlactual="servicios"}else if(urlactual=="blog?id=2"||urlactual=="blog?id=3"){urlactual="blog"}
+document.getElementById(urlactual).className="active"

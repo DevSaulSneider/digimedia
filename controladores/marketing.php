@@ -1,0 +1,1 @@
+<?php class Marketing extends Controlador{function __construct(){parent::__construct();}public function renderizar($vista="pages/marketing"){$this->mostrarVista($vista);}} ?>

@@ -1,0 +1,1 @@
+<?php class Web extends Controlador{function __construct(){parent::__construct();}public function renderizar($vista="pages/web"){$this->mostrarVista($vista);}} ?>

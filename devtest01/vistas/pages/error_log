@@ -1,0 +1,280 @@
+[11-Sep-2022 13:03:53 America/Boise] PHP Warning:  require(vistas/layouts/header.php): Failed to open stream: No such file or directory in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 5
+[11-Sep-2022 13:03:53 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vistas/layouts/header.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 5
+[11-Sep-2022 13:08:21 America/Boise] PHP Warning:  require(vistas/layouts/header.php): Failed to open stream: No such file or directory in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 4
+[11-Sep-2022 13:08:21 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vistas/layouts/header.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 4
+[11-Sep-2022 13:08:22 America/Boise] PHP Warning:  require(vistas/layouts/header.php): Failed to open stream: No such file or directory in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 4
+[11-Sep-2022 13:08:22 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vistas/layouts/header.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 4
+[11-Sep-2022 13:08:32 America/Boise] PHP Warning:  require(vistas/layouts/navbar.php): Failed to open stream: No such file or directory in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 8
+[11-Sep-2022 13:08:32 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vistas/layouts/navbar.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 8
+[11-Sep-2022 13:08:44 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 11
+[11-Sep-2022 13:08:46 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 11
+[11-Sep-2022 13:09:06 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 16
+[11-Sep-2022 13:09:29 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 17
+[11-Sep-2022 13:09:57 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 17
+[11-Sep-2022 13:10:34 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 17
+[11-Sep-2022 13:10:35 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 17
+[11-Sep-2022 13:10:37 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 17
+[11-Sep-2022 13:11:05 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(21): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php on line 1
+[11-Sep-2022 13:11:32 America/Boise] PHP Warning:  include(vistas/layouts/header.php): Failed to open stream: No such file or directory in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 5
+[11-Sep-2022 13:11:32 America/Boise] PHP Warning:  include(): Failed opening 'vistas/layouts/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 5
+[11-Sep-2022 13:11:32 America/Boise] PHP Warning:  require(vistas/layouts/navbar.php): Failed to open stream: No such file or directory in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 9
+[11-Sep-2022 13:11:32 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vistas/layouts/navbar.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 9
+[11-Sep-2022 13:11:46 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/header.php:4
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(5): include()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/header.php on line 4
+[11-Sep-2022 13:11:49 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/header.php:4
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(5): include()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/header.php on line 4
+[11-Sep-2022 13:12:01 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/header.php:4
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(5): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/header.php on line 4
+[11-Sep-2022 13:12:15 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/header.php:4
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(5): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/header.php on line 4
+[11-Sep-2022 13:12:26 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/header.php:4
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(5): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/header.php on line 4
+[11-Sep-2022 13:12:28 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/header.php:4
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(5): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/header.php on line 4
+[11-Sep-2022 13:13:20 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/header.php:4
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(5): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/header.php on line 4
+[11-Sep-2022 13:13:40 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php:3
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(9): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php on line 3
+[11-Sep-2022 13:14:05 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 18
+[11-Sep-2022 13:14:43 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 19
+[11-Sep-2022 13:14:50 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(23): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php on line 1
+[11-Sep-2022 13:15:17 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(24): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php on line 1
+[11-Sep-2022 13:15:23 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(23): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php on line 1
+[11-Sep-2022 13:15:46 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/header.php:4
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(5): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/header.php on line 4
+[11-Sep-2022 13:16:26 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(23): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php on line 1
+[11-Sep-2022 13:17:22 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(23): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php on line 1
+[11-Sep-2022 13:17:53 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(23): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php on line 1
+[11-Sep-2022 13:18:38 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(23): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php on line 1
+[11-Sep-2022 13:18:54 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(23): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php on line 1
+[11-Sep-2022 13:18:57 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(23): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php on line 1
+[11-Sep-2022 13:20:45 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php:3
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(9): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php on line 3
+[11-Sep-2022 13:21:00 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php:3
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(9): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php on line 3
+[11-Sep-2022 13:21:12 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php:3
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(9): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php on line 3
+[11-Sep-2022 13:21:15 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php:3
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(9): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php on line 3
+[11-Sep-2022 13:21:16 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php:3
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(9): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php on line 3
+[11-Sep-2022 13:21:30 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(23): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php on line 1
+[11-Sep-2022 13:21:40 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(23): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php on line 1
+[11-Sep-2022 13:22:38 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php:3
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(9): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php on line 3
+[11-Sep-2022 13:22:48 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(23): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php on line 1
+[11-Sep-2022 13:24:26 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php:1
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(23): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/footer.php on line 1
+[11-Sep-2022 13:38:14 America/Boise] PHP Warning:  require(../vistas/footer.php): Failed to open stream: No such file or directory in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 23
+[11-Sep-2022 13:38:14 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '../vistas/footer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 23
+[11-Sep-2022 13:42:31 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php:3
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(9): require()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php on line 3
+[11-Sep-2022 13:42:55 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php:3
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(9): include()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php on line 3
+[11-Sep-2022 13:42:58 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php:3
+Stack trace:
+#0 /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php(9): include()
+#1 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/layouts/navbar.php on line 3
+[11-Sep-2022 14:00:23 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 19
+[11-Sep-2022 14:00:26 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marca.php on line 19
+[20-Sep-2022 14:13:09 America/Boise] PHP Warning:  require(vistas/layouts/header.php): Failed to open stream: No such file or directory in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marketing.php on line 4
+[20-Sep-2022 14:13:09 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vistas/layouts/header.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marketing.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marketing.php on line 4
+[20-Sep-2022 14:13:34 America/Boise] PHP Warning:  require(vistas/layouts/header.php): Failed to open stream: No such file or directory in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marketing.php on line 4
+[20-Sep-2022 14:13:34 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vistas/layouts/header.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marketing.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marketing.php on line 4
+[20-Sep-2022 14:14:27 America/Boise] PHP Warning:  require(vistas/layouts/header.php): Failed to open stream: No such file or directory in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marketing.php on line 4
+[20-Sep-2022 14:14:27 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vistas/layouts/header.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marketing.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/marketing.php on line 4
+[20-Sep-2022 14:26:43 America/Boise] PHP Warning:  require(vistas/layouts/header.php): Failed to open stream: No such file or directory in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/web.php on line 4
+[20-Sep-2022 14:26:43 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vistas/layouts/header.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/web.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/web.php on line 4
+[20-Sep-2022 14:28:47 America/Boise] PHP Warning:  require(vistas/layouts/header.php): Failed to open stream: No such file or directory in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/diseno.php on line 5
+[20-Sep-2022 14:28:47 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vistas/layouts/header.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/diseno.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/diseno.php on line 5
+[20-Sep-2022 14:29:13 America/Boise] PHP Warning:  require(vistas/layouts/header.php): Failed to open stream: No such file or directory in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/diseno.php on line 5
+[20-Sep-2022 14:29:13 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vistas/layouts/header.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/diseno.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/diseno.php on line 5
+[20-Sep-2022 14:29:18 America/Boise] PHP Warning:  require(vistas/layouts/header.php): Failed to open stream: No such file or directory in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/diseno.php on line 5
+[20-Sep-2022 14:29:18 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vistas/layouts/header.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/diseno.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/diseno.php on line 5
+[20-Sep-2022 14:29:24 America/Boise] PHP Warning:  require(vistas/layouts/header.php): Failed to open stream: No such file or directory in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/diseno.php on line 5
+[20-Sep-2022 14:29:24 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'vistas/layouts/header.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/diseno.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ghxumdmy/public_html/digimediamkt/devtest01/vistas/pages/diseno.php on line 5

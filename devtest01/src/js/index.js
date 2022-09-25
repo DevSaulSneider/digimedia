@@ -1,0 +1,2 @@
+'use strict'
+window.addEventListener("load",()=>{let booleano=!1;const menu=document.getElementById("svg-menu");menu.addEventListener("click",function(){if(booleano==!1){console.log(menu);menu.src="src/images/x-lg.svg";booleano=!0}else{console.log(menu);menu.src="src/images/list.svg";booleano=!1}})})
